@@ -1,1 +1,2 @@
 1. Penggunaan branching dalam Git memiliki banyak manfaat.
+2. Berikut ada beberapa manfaat branching: meningkatkan efisiensi, pengelolaan risiko, dan kolaborasi.

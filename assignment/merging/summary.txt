@@ -1,1 +1,2 @@
 Salah satu cara untuk avoid conflict adalah dengan lebih sering melakukan commit.
+Tapi jangan juga terlalu sering untuk commit, diperlukan keseimbangan dan kondisi yang tepat dalam melakukan commit.
